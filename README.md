@@ -40,3 +40,11 @@ indexing method-
 1. build inverted index table:  
 
 https://www.quora.com/What-is-inverted-index-It-is-a-well-known-fact-that-you-need-to-build-indexes-to-implement-efficient-searches-What-is-the-difference-between-index-and-inverted-index-and-how-does-one-build-inverted-index
+
+build index:
+
+https://www.cs.cmu.edu/~lemur/3.1/indexing.html
+
+detailed explanation:
+
+http://www.shuang0420.com/2016/10/14/Search%20Engines%E7%AC%94%E8%AE%B0%20-%20Index/
