@@ -32,3 +32,11 @@ https://sourceforge.net/p/lemur/wiki/IndriBuildIndex%20Parameters/
 
 https://sourceforge.net/p/lemur/wiki/IndriRunQuery/
 ./IndriRunQuery 
+
+# search engine
+
+indexing method- 
+
+1. build inverted index table:  
+
+https://www.quora.com/What-is-inverted-index-It-is-a-well-known-fact-that-you-need-to-build-indexes-to-implement-efficient-searches-What-is-the-difference-between-index-and-inverted-index-and-how-does-one-build-inverted-index
