@@ -48,3 +48,7 @@ https://www.cs.cmu.edu/~lemur/3.1/indexing.html
 detailed explanation:
 
 http://www.shuang0420.com/2016/10/14/Search%20Engines%E7%AC%94%E8%AE%B0%20-%20Index/
+
+parsing source code
+
+https://sourceforge.net/p/lemur/code/HEAD/tree/indri/tags/release-5.9/src/Parameters.cpp#l47
