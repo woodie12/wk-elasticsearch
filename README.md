@@ -52,3 +52,7 @@ http://www.shuang0420.com/2016/10/14/Search%20Engines%E7%AC%94%E8%AE%B0%20-%20In
 parsing source code
 
 https://sourceforge.net/p/lemur/code/HEAD/tree/indri/tags/release-5.9/src/Parameters.cpp#l47
+
+build index source code
+
+https://sourceforge.net/p/lemur/code/HEAD/tree/indri/tags/release-5.9/buildindex/IndriBuildIndex.cpp#l1078
